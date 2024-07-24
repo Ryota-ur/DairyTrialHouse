@@ -363,11 +363,11 @@ body {
 }
 
 .slide-1 {
-  background: url(./img/FV.jpg) no-repeat center center/cover;
+  background: url(../img/FV.jpg) no-repeat center center/cover;
 }
 
 .slide-2 {
-  background: url(/img/FV-2.jpg) no-repeat center center/cover;
+  background: url(../img/FV-2.jpg) no-repeat center center/cover;
 }
 
 .slide-3 {
@@ -375,7 +375,7 @@ body {
 }
 
 .slide-4 {
-  background: url(/img/FV-4.jpg) no-repeat center center/cover;
+  background: url(../img/FV-4.jpg) no-repeat center center/cover;
 }
 
 .triangle {
@@ -683,7 +683,7 @@ body {
   .about__title::before {
     content: "";
     position: absolute;
-    background: url(/img/about-水玉.png) no-repeat center center/contain;
+    background: url(../img/about-水玉.png) no-repeat center center/contain;
     width: 55px;
     height: 55px;
     left: -20px;
@@ -693,7 +693,7 @@ body {
 .about__title::after {
   content: "";
   position: absolute;
-  background: url(/img/about-水玉.png) no-repeat center center/contain;
+  background: url(../img/about-水玉.png) no-repeat center center/contain;
   top: 50%;
   -webkit-transform: translateY(-50%);
           transform: translateY(-50%);
@@ -756,7 +756,7 @@ body {
 .about__imgs::after {
   content: "";
   position: absolute;
-  background: url(/img/about-水玉3.png) no-repeat center center/contain;
+  background: url(../img/about-水玉3.png) no-repeat center center/contain;
   top: -100px;
   left: 150px;
   width: 95px;
@@ -962,7 +962,7 @@ body {
 .guide-text::before {
   content: "";
   position: absolute;
-  background: url(/img/guide-水玉.png) no-repeat center center/contain;
+  background: url(../img/guide-水玉.png) no-repeat center center/contain;
   top: 80px;
   left: -10px;
   width: 95px;
@@ -996,7 +996,7 @@ body {
 .guide-text.reverse::before {
   content: "";
   position: absolute;
-  background: url(/img/guide-水玉green.png) no-repeat center center/contain;
+  background: url(../img/guide-水玉green.png) no-repeat center center/contain;
   left: -70px;
   top: 250px;
   width: 95px;
@@ -1013,7 +1013,7 @@ body {
 .guide-text.reverse::after {
   content: "";
   position: absolute;
-  background: url(/img/guide-水玉green.png) no-repeat center center/contain;
+  background: url(../img/guide-水玉green.png) no-repeat center center/contain;
   right: 0px;
   top: 0px;
   width: 95px;
@@ -1075,7 +1075,7 @@ body {
   }
 }
 .polka-dots-blue::before {
-  background: url(/img/guide-水玉blue.png) no-repeat center center/contain;
+  background: url(../img/guide-水玉blue.png) no-repeat center center/contain;
 }
 
 .guide-title {
@@ -1136,7 +1136,7 @@ body {
 .guide-title::after {
   content: "";
   position: absolute;
-  background: url(/img/guide-deco-red.png) no-repeat center center/contain;
+  background: url(../img/guide-deco-red.png) no-repeat center center/contain;
   top: -46px;
   right: -70px;
   width: 75.374px;
@@ -1169,7 +1169,7 @@ body {
   background: #3d9ee8;
 }
 .deco-blue::after {
-  background: url(/img/guide-deco-blue.png) no-repeat center center/contain;
+  background: url(../img/guide-deco-blue.png) no-repeat center center/contain;
   right: 20px;
 }
 @media screen and (max-width: 1279px) {
@@ -1186,7 +1186,7 @@ body {
 .deco-green::before {
   content: "";
   position: absolute;
-  background: url(/img/guide-deco-green.png) no-repeat center center/contain;
+  background: url(../img/guide-deco-green.png) no-repeat center center/contain;
   width: 75.374px;
   height: 66.499px;
   left: -50px;
@@ -1276,7 +1276,7 @@ body {
 .guide-imgs .red::before {
   content: "";
   position: absolute;
-  background: url(/img/guide-水玉.png) no-repeat center center/contain;
+  background: url(../img/guide-水玉.png) no-repeat center center/contain;
   top: -28px;
   left: -67px;
   width: 117.338px;
@@ -1295,7 +1295,7 @@ body {
 .guide-imgs .blue::before {
   content: "";
   position: absolute;
-  background: url(/img/guide-水玉blue.png) no-repeat center center/contain;
+  background: url(../img/guide-水玉blue.png) no-repeat center center/contain;
   bottom: 0px;
   left: -67px;
   width: 117.338px;
@@ -1893,7 +1893,7 @@ body {
 # Contact
 ===================================== */
 .contact-section {
-  background: url(/img/contact-bg.png) no-repeat center center/cover;
+  background: url(../img/contact-bg.png) no-repeat center center/cover;
   padding-top: 62px;
   padding-bottom: 62px;
 }
@@ -2196,7 +2196,7 @@ body {
 .to-top-link::before {
   content: "";
   position: absolute;
-  background: url(/img/arrow.png) no-repeat center center/contain;
+  background: url(../img/arrow.png) no-repeat center center/contain;
   width: 14px;
   height: 13px;
   top: 20px;
